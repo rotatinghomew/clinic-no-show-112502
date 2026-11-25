@@ -1,0 +1,29 @@
+[
+  {
+    "appointment_id": "ap-001",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-12T09:00",
+    "type": "followup",
+    "status": "scheduled"
+  },
+  {
+    "appointment_id": "ap-002",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-12T09:00",
+    "type": "lab",
+    "status": "rescheduled"
+  },
+  {
+    "appointment_id": "ap-003",
+    "patient_key": null,
+    "clinic": "derm",
+    "site": "west",
+    "starts_at": "2026-10-12T10:00",
+    "type": "new",
+    "status": "scheduled"
+  }
+]

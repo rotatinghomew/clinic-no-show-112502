@@ -1,0 +1,9 @@
+[
+  {
+    "request_id": "wl-001",
+    "clinic": "cardio",
+    "site": "east",
+    "requested_window": "2026-10-12T09:00",
+    "status": "pending"
+  }
+]

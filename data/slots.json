@@ -1,0 +1,16 @@
+[
+  {
+    "slot_id": "sl-001",
+    "site": "east",
+    "starts_at": "2026-10-12T09:00",
+    "reserved_for": "followup",
+    "status": "protected"
+  },
+  {
+    "slot_id": "sl-002",
+    "site": "west",
+    "starts_at": "2026-10-12T10:00",
+    "reserved_for": "urgent",
+    "status": "protected"
+  }
+]

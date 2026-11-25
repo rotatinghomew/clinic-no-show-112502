@@ -1,0 +1,16 @@
+[
+  {
+    "reminder_id": "rm-001",
+    "appointment_id": "ap-001",
+    "sent_at": "2026-10-10T18:00",
+    "template": "v2",
+    "status": "delivered"
+  },
+  {
+    "reminder_id": "rm-002",
+    "appointment_id": "ap-003",
+    "sent_at": null,
+    "template": "v2",
+    "status": "pending"
+  }
+]
