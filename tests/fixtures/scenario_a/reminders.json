@@ -1,0 +1,12 @@
+[
+  {"reminder_id": "rm-101", "appointment_id": "ap-201", "sent_at": "2026-10-10T18:00", "template": "v3", "status": "delivered"},
+  {"reminder_id": "rm-102", "appointment_id": "ap-202", "sent_at": null, "template": "v2", "status": "pending"},
+  {"reminder_id": "rm-103", "appointment_id": "ap-203", "sent_at": null, "template": "v2", "status": "pending"},
+  {"reminder_id": "rm-104", "appointment_id": "ap-204", "sent_at": "2026-10-12T10:00", "template": "v2", "status": "delivered"},
+  {"reminder_id": "rm-201", "appointment_id": "ap-101", "sent_at": "2026-10-04T18:00", "template": "v2", "status": "delivered"},
+  {"reminder_id": "rm-202", "appointment_id": "ap-102", "sent_at": "2026-10-05T18:00", "template": "v2", "status": "delivered"},
+  {"reminder_id": "rm-203", "appointment_id": "ap-103", "sent_at": "2026-10-06T18:00", "template": "v2", "status": "delivered"},
+  {"reminder_id": "rm-204", "appointment_id": "ap-301", "sent_at": "2026-09-30T18:00", "template": "v1", "status": "delivered"},
+  {"reminder_id": "rm-205", "appointment_id": "ap-302", "sent_at": "2026-10-01T18:00", "template": "v1", "status": "delivered"},
+  {"reminder_id": "rm-206", "appointment_id": "ap-303", "sent_at": "2026-10-02T18:00", "template": "v1", "status": "delivered"}
+]

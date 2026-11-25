@@ -1,0 +1,6 @@
+[
+  {"patient_key": "p-1", "linked_key": "p-1b", "relation": "family_authorized", "authorized": true},
+  {"patient_key": "p-1b", "linked_key": "p-1", "relation": "family_authorized", "authorized": true},
+  {"patient_key": "p-3", "linked_key": "p-3b", "relation": "agent", "authorized": true},
+  {"patient_key": "p-4", "linked_key": "p-4x", "relation": "family_authorized", "authorized": false}
+]

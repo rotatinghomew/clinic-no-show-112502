@@ -1,0 +1,6 @@
+[
+  {"slot_id": "sl-301", "site": "east", "clinic": "cardio", "starts_at": "2026-10-12T09:00", "reserved_for": "followup", "status": "protected", "visible_at": "2026-10-01T08:00"},
+  {"slot_id": "sl-302", "site": "west", "clinic": "derm", "starts_at": "2026-10-13T10:00", "reserved_for": "urgent", "status": "protected", "visible_at": "2026-10-01T08:00"},
+  {"slot_id": "sl-303", "site": "east", "clinic": "ortho", "starts_at": "2026-10-13T08:00", "reserved_for": null, "status": "open", "visible_at": "2026-10-09T08:00"},
+  {"slot_id": "sl-304", "site": "west", "clinic": "cardio", "starts_at": "2026-10-14T09:00", "reserved_for": null, "status": "open", "visible_at": "2026-10-09T08:00"}
+]

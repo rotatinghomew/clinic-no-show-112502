@@ -1,0 +1,167 @@
+[
+  {
+    "appointment_id": "ap-101",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-05T09:00",
+    "type": "followup",
+    "status": "completed",
+    "registered_at": "2026-10-01T10:00"
+  },
+  {
+    "appointment_id": "ap-102",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-06T09:00",
+    "type": "followup",
+    "status": "completed",
+    "registered_at": "2026-10-02T10:00"
+  },
+  {
+    "appointment_id": "ap-103",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-07T09:00",
+    "type": "followup",
+    "status": "no_show",
+    "registered_at": "2026-10-03T10:00"
+  },
+  {
+    "appointment_id": "ap-104a",
+    "patient_key": "p-2",
+    "clinic": "derm",
+    "site": "west",
+    "starts_at": "2026-10-05T10:00",
+    "type": "new",
+    "status": "completed",
+    "service_group_id": "sg-104",
+    "registered_at": "2026-10-01T11:00"
+  },
+  {
+    "appointment_id": "ap-104b",
+    "patient_key": "p-2",
+    "clinic": "lab",
+    "site": "west",
+    "starts_at": "2026-10-05T10:30",
+    "type": "lab",
+    "status": "completed",
+    "service_group_id": "sg-104",
+    "registered_at": "2026-10-01T11:00"
+  },
+  {
+    "appointment_id": "ap-105",
+    "patient_key": "p-2",
+    "clinic": "derm",
+    "site": "west",
+    "starts_at": "2026-10-08T10:00",
+    "type": "followup",
+    "status": "no_show",
+    "registered_at": "2026-10-04T11:00"
+  },
+  {
+    "appointment_id": "ap-106",
+    "patient_key": "p-3",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-06T14:00",
+    "type": "new",
+    "status": "cancelled",
+    "changed_at": "2026-10-05T16:00",
+    "registered_at": "2026-10-01T09:00"
+  },
+  {
+    "appointment_id": "ap-107",
+    "patient_key": "p-3",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-07T14:00",
+    "type": "new",
+    "status": "rescheduled",
+    "changed_at": "2026-10-06T15:00",
+    "registered_at": "2026-10-02T09:00"
+  },
+  {
+    "appointment_id": "ap-108",
+    "patient_key": "p-4",
+    "clinic": "derm",
+    "site": "west",
+    "starts_at": "2026-10-08T11:00",
+    "type": "new",
+    "status": "completed",
+    "registered_at": "2026-10-03T14:00"
+  },
+  {
+    "appointment_id": "ap-201",
+    "patient_key": "p-1",
+    "clinic": "cardio",
+    "site": "east",
+    "starts_at": "2026-10-12T09:00",
+    "type": "followup",
+    "status": "scheduled",
+    "registered_at": "2026-10-09T10:00"
+  },
+  {
+    "appointment_id": "ap-202",
+    "patient_key": "p-6",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-13T08:00",
+    "type": "followup",
+    "status": "scheduled",
+    "registered_at": "2026-10-09T10:00"
+  },
+  {
+    "appointment_id": "ap-203",
+    "patient_key": null,
+    "clinic": "derm",
+    "site": "west",
+    "starts_at": "2026-10-13T10:00",
+    "type": "new",
+    "status": "scheduled",
+    "registered_by": "agent-x",
+    "registered_at": "2026-10-09T12:00"
+  },
+  {
+    "appointment_id": "ap-204",
+    "patient_key": "p-5",
+    "clinic": "cardio",
+    "site": "west",
+    "starts_at": "2026-10-14T09:00",
+    "type": "new",
+    "status": "scheduled",
+    "registered_at": "2026-10-10T10:00"
+  },
+  {
+    "appointment_id": "ap-301",
+    "patient_key": "p-6",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-01T08:00",
+    "type": "followup",
+    "status": "no_show",
+    "registered_at": "2026-09-25T10:00"
+  },
+  {
+    "appointment_id": "ap-302",
+    "patient_key": "p-6",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-02T08:00",
+    "type": "followup",
+    "status": "no_show",
+    "registered_at": "2026-09-26T10:00"
+  },
+  {
+    "appointment_id": "ap-303",
+    "patient_key": "p-6",
+    "clinic": "ortho",
+    "site": "east",
+    "starts_at": "2026-10-03T08:00",
+    "type": "followup",
+    "status": "no_show",
+    "registered_at": "2026-09-27T10:00"
+  }
+]

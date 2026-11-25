@@ -1,0 +1,17 @@
+[
+  {
+    "patient_key": "p-1",
+    "windows": [
+      {"day": "mon", "from": "08:00", "to": "12:00"},
+      {"day": "wed", "from": "13:00", "to": "17:00"}
+    ],
+    "channels": ["sms", "call"]
+  },
+  {
+    "patient_key": "p-6",
+    "windows": [
+      {"day": "sun", "from": "09:00", "to": "12:00"}
+    ],
+    "channels": ["sms"]
+  }
+]
